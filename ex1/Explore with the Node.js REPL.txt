@@ -1,0 +1,4 @@
+$  node
+> const crypto = require("crypto")
+> crypto.randomBytes(16).toString("hex")
+'1339a2f87043a4d3510a307be087725c'
